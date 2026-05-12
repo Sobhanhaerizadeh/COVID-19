@@ -1,5 +1,8 @@
 # 🦠 COVID-19 Tracker
 
+<img width="1094" height="1072" alt="image" src="https://github.com/user-attachments/assets/ad382b35-8293-4b86-9ce0-3e738fa4ed9a" />
+
+
 Real-time global COVID-19 statistics — fetched live, no refresh needed.
 
 ## What it shows
